@@ -1,5 +1,5 @@
 # juguigodev
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil do Juliano Parnoff 😁
 
  <div>
    <a href="https://github.com/juguigodev">
@@ -15,7 +15,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Apreendendo front end e backend + banco de dado 'futuro programdor fullstack!
  
 <div> 
   <a href="https://www.youtube.com/@julianoJPA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
