@@ -15,7 +15,7 @@
  
 <br>
  
-### Apreendendo front end e backend + banco de dado 'futuro programdor fullstack!
+### Apreendendo front end e backend + banco de dado '#futuro programador fullstack#' segue minhas redes nos links abaixos!
  
 <div> 
   <a href="https://www.youtube.com/@julianoJPA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
